@@ -1,1 +1,0 @@
-Hocam proje boyutu sıkıştırdıktan sonra 500MB'dan fazla olduğu için projeyi teams üzerinden yollayamadık. Kullandığımız scriptleri rar halinde atmanın daha mantıklı olduğunu düşündük.
